@@ -1,16 +1,10 @@
 # notepad
+A new Flutter project with Google Cloud Firestore used BAAS
 
-A new Flutter project.
+User Authentication/Login
+Internationalization with 12+ Locales
+To-Do extension
+Free to use
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![111](https://user-images.githubusercontent.com/86423625/218335571-8695f465-bdf2-4d5a-9a33-33261e331cfd.png)
